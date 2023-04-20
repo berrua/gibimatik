@@ -4,8 +4,4 @@ This Flutter project has been developed using the funny lines said by the main c
 
 ## Application Interface
 
-<table>
-  <tr>
-    <td><img src="gibimatik.png"></td>
-  </tr>
-</table>
+<img src="gibimatik.png">
