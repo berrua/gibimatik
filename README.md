@@ -4,4 +4,5 @@ This Flutter project has been developed using the funny lines said by the main c
 
 ## Application Interface
 
-<img src="gibimatik.png">
+![gibimatik](gibimatik.png)
+
